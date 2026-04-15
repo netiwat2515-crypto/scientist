@@ -1,4 +1,4 @@
-name: CI
+name: SC
 on: [push, pull_request]
 permissions:
   actions: none
